@@ -1,0 +1,8 @@
+.search-bar{
+    display: flex;
+    flex-direction: column;
+}
+
+.search-input{
+    width: 20%;
+}

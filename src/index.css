@@ -1,0 +1,14 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.FilterableProductTable{
+  margin-left: 30px;
+  margin-top: 30px;
+}
+
+.ProductTable{
+  margin-top: 15px;
+}
